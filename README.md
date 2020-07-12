@@ -1,2 +1,2 @@
-# drsemiramiscj
-Personal site @ netlify
+# 
+Personal site at https://drsemiramiscj.netlify.app/
