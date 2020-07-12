@@ -22,19 +22,68 @@ knitr::opts_chunk$set(
 Hello everyone! I am Semiramis, a Data Scientist who codes in Python, R, and Bash. During my PhD I developed automated solutions for data cleaning, analysis and visualization in Microbiology Research. I would like to apply my research and programming skills in an enterprise or start-up as a Data Scientist.
 
 
-## Talks
-#### R-Ladies Advanced R Bookclub. Chapter 8: Conditions
-`r icon::fa("calendar")` JUL-2020 
-`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/r-ladies-advanced-r-bookclub-chapter-8-conditions">&nbsp;link @speakerdeck</a>
+## R and Python Talks
+#### Advanced R Bookclub. Chapter 8: Conditions
+`r icon::fa("calendar")` JUL-2020, R-Ladies Netherlands (on-line)
+
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/r-ladies-advanced-r-bookclub-chapter-8-conditions">&nbsp;Slides</a>
 
 Talk & exercises about errors, warnings, and messages; how to handle them, and how to create custom condition objects.
 
-## Research
-You can see the scientific papers that I co-authored at <a href="https://scholar.google.com.mx/citations?user=456JS-cAAAAJ">&nbsp;Google Scholar</a> and `r icon::fa("link")` 
 
-The posters I have presented are:
+#### Introduction to the Python libraries argparse, SeqIO and NetworkX
+`r icon::fa("calendar")` OCT, 2019, PyLadies Mexico City
+
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/in-spanish-introduction-to-the-python-libraries-argparse-seqio-and-networkx">&nbsp;Slides (in Spanish)</a>
+
+Examples with Python modules `argparse` for passing named command-line arguments, `SeqIO` to load and read biological data (genomic sequences), and `NetworkX` for the analysis of biological networks.
+
+
+#### Case study: visualization of genomics data in R
+`r icon::fa("calendar")` JUN, 2017, Sciences School, National Autonomous University of Mexico (UNAM)
+
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/in-spanish-case-study-visualization-of-genomics-data-in-r">&nbsp;Slides (in Spanish)</a>
+
+Example on the use of R to visualize genomics data, suitable for heatmap or colored matrix representation in R with the `ComplexHeatmap` package.
+
+
+#### Using the hypergeometric test in R
+`r icon::fa("calendar")` MAR, 2016, Sciences School, National Autonomous University of Mexico (UNAM)
+
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/in-spanish-using-the-hypergeometric-test-in-r">&nbsp;Slides (in Spanish)</a>
+
+Introductory talk and use cases for the hypergeometric tests, like enrichment (over-representation) or depletion of a group. Short exercises with R.
+
+
+## Antibiotic resistance talks
+`r icon::fa("calendar")` FEB-JUL, 2019, Center for Genomic Sciences, National Autonomous University of Mexico (UNAM)
+
+#### Introduction to antibiotic resistance
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/conceptos-iniciales-y-antibiogramas">&nbsp;Slides (in Spanish)</a>
+
+#### Antibiotics that target the cell wall I
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/antibioticos-que-atacan-la-pared-celular-i">&nbsp;Slides (in Spanish)</a>
+
+#### Antibiotics that target the cell wall II
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/antibioticos-que-atacan-la-pared-celular-ii">&nbsp;Slides (in Spanish)</a>
+
+#### Antibiotics that inhibit translation
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/antibioticos-que-inhiben-traduccion">&nbsp;Slides (in Spanish)</a>
+
+#### Antibiotics that inhibit folate synthesis, adjuvants & heteregeneity
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/antibioticos-que-inhiben-la-sintesis-de-dtmp-adyuvantes-estrategias-de-heterogeneidad">&nbsp;Slides (in Spanish)</a>
+
+#### Antibiotics resistance barriers and fitness cost
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/barreras-y-costo-en-la-adecuacion-de-la-resistencia-a-antibioticos">&nbsp;Slides (in Spanish)</a>
+
+#### Resistome and Microbiome
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/resistoma-y-microbioma">&nbsp;Slides (in Spanish)</a>
+
+
+## Research
+You can see the scientific papers that I co-authored at `r icon::fa("link")` <a href="https://scholar.google.com.mx/citations?user=456JS-cAAAAJ">&nbsp;Google Scholar</a>
 
 
 ## Contact
 Let's keep in touch! You can find me on `r icon::fa("github")` <a href="https://github.com/semiramisCJ">&nbsp;github</a> and `r icon::fa("twitter")` <a href="http://twitter.com/semiramis_cj">&nbsp;twitter </a><br>
-
+* Website built with R Markdown
