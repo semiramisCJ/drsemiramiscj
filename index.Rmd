@@ -1,0 +1,40 @@
+---
+title: "Semiramis' web page"
+output: 
+  html_document:
+    theme: paper
+    css: styles.css
+    toc: TRUE
+    toc_float: TRUE
+---
+
+```{r setup, include= FALSE, cache= FALSE}
+knitr::opts_chunk$set(
+  comment = NA,
+  warning = FALSE,
+  message = FALSE,
+  fig.path = "sitefigs/"
+  )
+```
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+
+## About me 
+Hello everyone! I am Semiramis, a Data Scientist who codes in Python, R, and Bash. During my PhD I developed automated solutions for data cleaning, analysis and visualization in Microbiology Research. I would like to apply my research and programming skills in an enterprise or start-up as a Data Scientist.
+
+
+## Talks
+#### R-Ladies Advanced R Bookclub. Chapter 8: Conditions
+`r icon::fa("calendar")` JUL-2020 
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/r-ladies-advanced-r-bookclub-chapter-8-conditions">&nbsp;link @speakerdeck</a>
+
+Talk & exercises about errors, warnings, and messages; how to handle them, and how to create custom condition objects.
+
+## Research
+You can see the scientific papers that I co-authored at <a href="https://scholar.google.com.mx/citations?user=456JS-cAAAAJ">&nbsp;Google Scholar</a> and `r icon::fa("link")` 
+
+The posters I have presented are:
+
+
+## Contact
+Let's keep in touch! You can find me on `r icon::fa("github")` <a href="https://github.com/semiramisCJ">&nbsp;github</a> and `r icon::fa("twitter")` <a href="http://twitter.com/semiramis_cj">&nbsp;twitter </a><br>
+
