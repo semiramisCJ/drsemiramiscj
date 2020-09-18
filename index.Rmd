@@ -19,10 +19,18 @@ knitr::opts_chunk$set(
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 
 ## About me 
-Hello everyone! I am Semiramis, a Data Scientist who codes in Python, R, and Bash. During my PhD I developed automated solutions for data cleaning, analysis and visualization in Microbiology Research. I would like to apply my research and programming skills in an enterprise or start-up as a Data Scientist.
+Hello everyone! I am Semiramis, a Data Scientist who codes in Python, R, and Bash. During my PhD I developed automated solutions for data cleaning, analysis and visualization in bacterial Genomics. Currently I'm applying my research and programming skills in an enterprise as a Data Scientist.
 
 
 ## R and Python Talks
+#### Advanced R Bookclub. Chapter 8: Conditions
+`r icon::fa("calendar")` AUG-2020, R-Ladies Monterrey (on-line)
+
+`r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/in-spanish-how-to-make-amazing-presentations-with-xaringan">&nbsp;Slides</a>
+
+Talk & workshop on how to create presentations with the {xaringan} package and RStudio.
+
+
 #### Advanced R Bookclub. Chapter 8: Conditions
 `r icon::fa("calendar")` JUL-2020, R-Ladies Netherlands (on-line)
 
