@@ -28,7 +28,7 @@ Hello everyone! I am Semiramis, a Data Scientist who codes in Python, R, and Bas
 
 `r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/in-spanish-how-to-make-amazing-presentations-with-xaringan">&nbsp;Slides</a>
 
-Talk & workshop on how to create presentations with the {xaringan} package and RStudio.
+Talk & workshop on how to create presentations with RStudio and the {xaringan} package.
 
 
 #### Advanced R Bookclub. Chapter 8: Conditions
