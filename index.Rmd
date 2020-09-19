@@ -28,7 +28,7 @@ Hello everyone! I am Semiramis, a Data Scientist who codes in Python, R, and Bas
 
 `r icon::fa("link")` <a href="https://speakerdeck.com/semiramiscj/in-spanish-how-to-make-amazing-presentations-with-xaringan">&nbsp;Slides</a>
 
-Talk & workshop on how to create presentations with RStudio and the {xaringan} package.
+Talk & workshop on how to create presentations with RStudio and the {xaringan} package. The presentations are built as RMarkdown files, they can be customized with templates and our css styles. One of the most important features is that we can insert code snippets and, if we want to, show their output.
 
 
 #### Advanced R Bookclub. Chapter 8: Conditions
